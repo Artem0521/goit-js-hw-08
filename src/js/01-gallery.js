@@ -32,5 +32,5 @@ function onClick (event) {
 
 const lightbox = new SimpleLightbox('.gallery a', {
     captionsData: 'alt',
-    captionsDelay: 250,
+    captionDelay: 250,
 });
